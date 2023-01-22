@@ -1,2 +1,2 @@
-# rainbow-six-bot
-Discord bot to make private games in Rainbow Six : Siege
+![rainbow-six-bot](https://github.com/Vavart/rainbow-six-bot/blob/main/rainbow-bot.jpg)
+
